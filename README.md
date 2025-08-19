@@ -204,10 +204,10 @@ The project includes comprehensive testing infrastructure:
 
 ## 👨‍💻 Developer Information
 
-**Developer**: Matheus Abrahão
-**Contact**: [Your Contact Information]
-**Portfolio**: [Your Portfolio URL]
-**LinkedIn**: [Your LinkedIn Profile]
+**Matheus Abrahão**  
+- GitHub: [@abrahao-dev](https://github.com/abrahao-dev)  
+- LinkedIn: [linkedin.com/in/matheusabrahao](https://www.linkedin.com/in/matheusabrahao)  
+- Portfolio: [matheusabrahao.com.br](https://www.matheusabrahao.com.br)  
 
 ## 📄 License
 
